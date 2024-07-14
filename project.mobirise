@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "playbook.html",
+    "currentPage": "leechbug.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,6 +53,21 @@
         "css": "'Heebo', sans-serif",
         "name": "Heebo",
         "url": "https://fonts.googleapis.com/css?family=Heebo:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Poppins', sans-serif",
+        "name": "Poppins",
+        "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'PT Sans', sans-serif",
+        "name": "PT Sans",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i"
+      },
+      {
+        "css": "'Nunito', sans-serif",
+        "name": "Nunito",
+        "url": "https://fonts.googleapis.com/css?family=Nunito:200,300,400,500,600,700,800,900,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
     "imageResize": true,
